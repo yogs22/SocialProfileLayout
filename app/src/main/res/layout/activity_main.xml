@@ -43,7 +43,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="Like see the sky and interested in programming"
+                    android:text="Hi everyone! you can call me Yogi"
                     android:textColor="@color/graylight"
                     android:textStyle="bold" />
 
@@ -68,7 +68,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Sakti"
+                            android:text="Social"
                             android:textSize="20sp"
                             />
                         <TextView
@@ -90,7 +90,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Tampan"
+                            android:text="Muscle"
                             android:textSize="20sp"
                             />
                         <TextView
@@ -112,7 +112,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Ganteng"
+                            android:text="Integrity"
                             android:textSize="20sp"
                             />
                         <TextView
@@ -149,7 +149,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:paddingLeft="20dp"
-                    android:text="yogi.enjoyers22@gmail.com"/>
+                    android:text="yogiprasetyawan12@gmail.com"/>
             </LinearLayout>
             <LinearLayout
                 android:layout_marginTop="25dp"
@@ -183,7 +183,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:paddingLeft="20dp"
-                    android:text="instagram.com/yogi_ph22"/>
+                    android:text="instagram.com/yogiprasetyawan_"/>
             </LinearLayout>
             <LinearLayout
                 android:layout_marginTop="25dp"
@@ -212,7 +212,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="Follow Baby"
+            android:text="Follow"
             android:padding="20dp"
             android:layout_marginBottom="20dp"
             />
