@@ -5,7 +5,7 @@
 <h2>Installation</h2>
 <p>Just run this project on your Android Studio Project
   
-<h2>Costumize</h2>
+<h2>Customize</h2>
 <ul>
   <li>You can costum the layout at main_activity.xml </li>
   <li>You can find the Vector and Image at Drawable folder
